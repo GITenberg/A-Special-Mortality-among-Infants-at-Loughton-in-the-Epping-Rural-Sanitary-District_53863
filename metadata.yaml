@@ -1,0 +1,28 @@
+_repo: A-Special-Mortality-among-Infants-at-Loughton-in-the-Epping-Rural-Sanitary-District_53863
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Power, William Henry, Sir
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '47586'
+    url: http://www.gutenberg.org/2009/agents/47586
+description: ''
+gutenberg_issued: '2017-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Loughton (Essex, England) -- Social conditions -- 19th century'
+- !lcc 'RA'
+- !lcsh 'Infants -- Death -- England -- Loughton (Essex)'
+- !lcsh 'Powders -- Toxicology -- England -- Loughton (Essex)'
+- !lcsh 'Infants -- Health and hygiene -- England -- Loughton (Essex)'
+- GITenberg
+title: A Special Mortality among Infants at Loughton, in the Epping Rural Sanitary
+  District
+url: http://www.gutenberg.org/ebooks/53863
